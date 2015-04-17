@@ -8,9 +8,9 @@
 
 #define PRINTFD	stdout
 #define READFD  stdin
-#define PROMPT_GREETING "Fxxxxxx's GXXXXXX/GXX Xeference Xtation"
+#define PROMPT_GREETING "Welcome"
 #define PROMPT_PREFIX "pipe"
-#define CMD_PATH "/home/dima/workspace/6.828/work/shell/"
+#define CMD_PATH "/path/to/cmd/directory"
 #define CMD_FILENAME_MAXLEN 64
 #define CMD_MAX_ARGS  8
 
